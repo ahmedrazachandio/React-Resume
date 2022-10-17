@@ -22,79 +22,48 @@ function Hi() {
         target = "blank" > Linkedin < /a><br/ >
         <
         a href = "https://github.com/ahmedrazachandio"
-        target = "blank" > Github < /a>
-
-        <
-        /div>
-
-        <
+        target = "blank" > Github < /a> <
+        /div> <
         div className = "objective" >
-
         <
-        h2 > Objective < /h2>
-
-        <
+        h2 > Objective < /h2> <
         p >
         Objective is to take challenge of making website
         for companies.Providing good unique and professional designs
         for companies.Another role is to gain employment as a marketing associate where I can effectively utilize my skills as a marketing professional,
         Seeking a marketing position where my skills and qualifications willbe put to use on a daily basis. <
-        /p>
-
-        <
-        /div>
-
-        <
+        /p> <
+        /div> <
         div className = "exp" >
-
         <
-        h2 > Experience < /h2>
-
-        {
-            /* <p>
-                        Aug-11-2020 – Jan-30-2021<br/>
-                        <b>Asst. Purchase Manager | Rasheed Textile Mill | Karachi.</b>
-                    </p> */
-        }
-
+        h2 > Experience < /h2> <
+        p >
+        Aug - 11 - 2021– Jan - 30 - 2021 < br / >
         <
+        b > Asst.Purchase Manager | Rasheed Textile Mill | Karachi. < /b> <
+        /p> <
         p >
         Aug - 01 - 2019– Aug - 10 - 2020 < br / >
         <
         b > Timekeeper in HR | Rasheed Textile Mill | Karachi. < /b> <
-        /p>
-
-        <
-        /div>
-
-        <
+        /p> <
+        /div> <
         div className = "edu" >
-
         <
-        h2 > Education < /h2>
-
-        <
+        h2 > Education < /h2> <
         p >
         <
         b > Saylani Mass It Traning < /b> <br/ > Course in Web Development and Mobile Application Development | Continue <
-        /p>
-
-        <
+        /p> <
         p >
         <
         b > Sindh Board of Technical Education Karachi < /b> <br/ > D.A.E in Electronics | 2015 - 2018 <
-        /p>
-
-        <
+        /p> <
         p >
         <
         b > Board of Secondary Education Karachi < /b> <br/ > Matriculation | 2013– 2015 <
-        /p>
-
-        <
-        /div>
-
-        <
+        /p> <
+        /div> <
         div className = "skills" >
         <
         h2 > Skills < /h2> <
@@ -122,9 +91,7 @@ function Hi() {
         li > Time Management < /li> <
         /ul> <
         /div> <
-        /div>
-
-        <
+        /div> <
         div className = "w-shop" >
         <
         h2 > Workshops < /h2> <
