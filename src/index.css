@@ -1,0 +1,103 @@
+.container {
+    border: solid #263238 10px;
+    margin: 1em 15em;
+    padding: 1em;
+    background-color: #ddd;
+}
+
+.shedow {
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.308);
+    background-color: #fff;
+    padding: 0.5rem;
+}
+
+.top-of-cv,
+.objective,
+.exp,
+.edu {
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.308);
+    line-height: 1.5rem;
+    padding: 1rem 4rem;
+    background-color: #263238;
+    box-sizing: border-box;
+    width: 100%;
+    color: #fff;
+}
+
+h1 {
+    margin-bottom: 0.5rem;
+}
+
+.container div h2 {
+    margin-bottom: 1rem;
+}
+
+.top-of-cv {
+    padding-bottom: 0;
+    text-align: center;
+    line-height: 1.3rem;
+}
+
+a {
+    color: rgb(6, 177, 177);
+}
+
+.t-skills,
+.s-skills {
+    padding: 1rem 4rem;
+    float: left;
+}
+
+.skills {
+    display: block;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.308);
+    line-height: 1.5rem;
+    padding: 1rem 4rem;
+    background-color: #263238;
+    box-sizing: border-box;
+    width: 100%;
+    color: #fff;
+}
+
+.skills::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.w-shop {
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.308);
+    line-height: 1.5rem;
+    padding: 1rem 4rem;
+    background-color: #263238;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    color: #fff;
+}
+
+.w-s {
+    padding: 1rem 4rem;
+}
+
+ul li {
+    list-style: none;
+}
+/* ######################### button Styling ########################## */
+
+.h-btn {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    border-radius: 100%;
+    background-color: #263238;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.308);
+}
+
+a:hover {
+    color: aqua;
+}
+
+button:hover {
+    color: aqua;
+}
